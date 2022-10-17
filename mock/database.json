@@ -1,0 +1,13 @@
+{
+  "pessoas": [
+    {
+      "id": 1,
+      "email": "juca@gmail.com",
+      "cidadeId": 1,
+      "nomeCompleto": "Juca da Silv"
+    }
+  ],
+  "auth": {
+    "accessToken": "aaaaaaaaaaaaa.bbbbbbbbbb.ccccccccc"
+  }
+}
